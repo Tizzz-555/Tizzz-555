@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mattia Beccari</h1>
-<h3 align="center">A Software Developer from Italy</h3>
+<h3 align="center">A Software Developer based in Italy</h3>
 
 <div align="center">
   <img src="vhs_landscape.gif" alt="description of image">
