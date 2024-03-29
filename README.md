@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on [[No Feed Twitter]](https://github.com/Tizzz-555/no-feed-twitter)
+- 🔭 I’m currently working on [No Feed Twitter](https://github.com/Tizzz-555/no-feed-twitter)
 
-- 🌱 I’m currently learning React on [[Full Stack Open]](https://github.com/Tizzz-555/full-stack-open)
+- 🌱 I’m currently learning React on [Full Stack Open](https://github.com/Tizzz-555/full-stack-open)
 
 - 💬 Ask me about **javascript,python,react**
 
