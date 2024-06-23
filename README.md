@@ -5,7 +5,7 @@
   <img src="vhs_landscape.gif" alt="description of image">
 </div>
 
-- 🔭 I’m currently working on [No Feed Twitter](https://github.com/Tizzz-555/no-feed-twitter)
+- 🔭 I’m currently working on [osu! Tournament Rating](https://github.com/osu-tournament-rating)
 
 - 🌱 I’m currently learning React on [Full Stack Open](https://github.com/Tizzz-555/full-stack-open)
 
