@@ -5,8 +5,6 @@
   <img src="vhs_landscape.gif" alt="description of image">
 </div>
 
-- 💬 Ask me about **javascript,python,react**
-
 - 📫 How to reach me **mattia.beccari@gmail.com**
 
 
