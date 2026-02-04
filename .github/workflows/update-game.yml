@@ -1,0 +1,28 @@
+name: Update Space Shooter Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-space-shooter-game
+  cancel-in-progress: true
+
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate space shooter GIF
+        uses: czl9707/gh-space-shooter@v1
+        with:
+          github-token: ${{ secrets.GH_SPACE_SHOOTER_TOKEN || secrets.GITHUB_TOKEN }}
+          username: Tizzz-555
+          output-path: game.gif
+          strategy: random
+          commit-message: "chore: update space shooter game"
